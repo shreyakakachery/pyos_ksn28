@@ -129,7 +129,7 @@ installer = "uv"
 description = "Test the installation and build of the package."
 detached = true
 dependencies = [
-    "hatch", 
+    "build", 
     "twine",
 ]
 
