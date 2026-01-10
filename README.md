@@ -27,6 +27,8 @@ To use pyos_ksn28 in your code:
 >>> pyos_ksn28.hello_world()
 ```
 
+Link to package on [TestPyPI](https://test.pypi.org/project/pyos-ksn28/)
+
 ## Copyright
 
 - Copyright © 2026 Shreya Kakachery.
